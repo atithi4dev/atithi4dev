@@ -51,8 +51,8 @@
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [Atithi Singh](https://www.linkedin.com/in/atithi-singh/)
-- **Email:** atithi.singh@example.com
+- **LinkedIn:** [Atithi Singh](https://www.linkedin.com/in/codeati/)
+- **Email:**singhatithi02@gmail.com
 
 ---
 
