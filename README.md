@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Atithi Singh!
 
-🎓 **B.Tech CSE Student at Amity University (1st Year)**
+
+🎓 **B.Tech CSE Student at Amity University (1st Year)**/n
 🌟 **Full-Stack Web Developer** | **App Developer (Java)**
 
 ---
