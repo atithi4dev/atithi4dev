@@ -66,9 +66,7 @@ Feel free to explore my repositories and connect with me!
 | Repo | Stars | Rank |
 |------|-------|------|
 | [REPOSITRIES](https://github.com/singh-atithi?tab=repositories) | ⭐⭐⭐⭐⭐ | S+ |
- [Ascone-Website](https://github.com/singh-atithi/Ascone-Website) | ⭐⭐⭐⭐ | S |
-| [Sydney-Bakery-Homepage](https://github.com/singh-atithi/Sydney-Bakery-Homepage) | ⭐⭐⭐ | A+ |
-| [Portfolio-Website](https://github.com/singh-atithi/Portfolio-Website)| ⭐⭐ | A |
+
 
 ---
 
