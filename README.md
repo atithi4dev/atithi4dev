@@ -2,8 +2,7 @@
 
 
 🎓 **B.Tech CSE Student at Amity University (1st Year)**<br/>
-🌟 **Full-Stack Web Developer** | **App Developer (Java)**
-
+🌟 **Full-Stack Web Developer**
 ---
 
 ## 🛠️ Skills & Technologies
@@ -21,15 +20,6 @@
 [![RESTful APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)](https://restfulapi.net/)
 [![JWT Auth](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white)](https://jwt.io/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ---
@@ -45,7 +35,6 @@
 ## 🏆 Achievements
 
 - 🌟 **Full-Stack Web Development Certification**
-- 🌟 **App Development with Java Certification**
 - 🌟 **Proficient in Modern Web Technologies**
 
 ---
@@ -68,14 +57,4 @@ Feel free to explore my repositories and connect with me!
 | [REPOSITRIES](https://github.com/singh-atithi?tab=repositories) | ⭐⭐⭐⭐⭐ | S+ |
 
 
----
 
-### GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=singh-atithi&theme=onedark)](https://github.com/singh-atithi/github-profile-trophy)
-
----
-
-## 🌟 Acknowledgements
-
-- **Special Thanks to:** My mentors, peers, and everyone who has supported my journey so far.
