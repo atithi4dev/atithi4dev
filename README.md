@@ -56,7 +56,7 @@ Feel free to explore my repositories and connect with me!
 |------|-------|------|
 | [REPOSITRIES](https://github.com/singh-atithi?tab=repositories) | ⭐⭐⭐⭐⭐ | S+ |
 | [Text UtilS](https://singh-atithi.github.io/Text-Utils/)        | ⭐⭐⭐ | A+ |
-| [News24Meta](https://github.com/singh-atithi/News-24-Meta)      | ⭐⭐⭐⭐⭐ | S+ |
+| [NewsMonkey](https://github.com/singh-atithi/News-24-Meta)      | ⭐⭐⭐⭐⭐ | S+ |
 
 
 
