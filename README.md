@@ -55,6 +55,9 @@ Feel free to explore my repositories and connect with me!
 | Repo | Stars | Rank |
 |------|-------|------|
 | [REPOSITRIES](https://github.com/singh-atithi?tab=repositories) | ⭐⭐⭐⭐⭐ | S+ |
+| [Text UtilS]([https://github.com/singh-atithi/Text-Utils](https://singh-atithi.github.io/Text-Utils/))| ⭐⭐⭐ | A+ |
+| [News24Meta](https://github.com/singh-atithi/News-24-Meta) | ⭐⭐⭐⭐⭐ | S+ |
+
 
 
 
