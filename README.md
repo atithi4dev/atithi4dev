@@ -2,7 +2,7 @@
 
 
 🎓 **B.Tech CSE Student at Amity University (1st Year)**<br/>
-🌟 **Full-Stack Web Developer**
+
 ---
 
 ## 🛠️ Skills & Technologies
