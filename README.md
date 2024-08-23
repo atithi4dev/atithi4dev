@@ -30,13 +30,6 @@
 
 ---
 
-## 🏆 Achievements
-
-- 🌟 **Full-Stack Web Development Certification**
-- 🌟 **Proficient in Modern Web Technologies**
-
----
-
 ## 📫 Get in Touch
 
 - **LinkedIn:** [Atithi Singh](https://www.linkedin.com/in/codeati/)
