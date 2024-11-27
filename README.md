@@ -24,8 +24,8 @@
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [Atithi Singh](https://www.linkedin.com/in/codeati/)
-- **Email:**singhatithi02@gmail.com
+- LinkedIn: [Atithi Singh](https://www.linkedin.com/in/codeati/)
+- Email: singhatithi02@gmail.com
 
 ---
 
