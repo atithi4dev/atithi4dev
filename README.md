@@ -22,14 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singh-atithi&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singh-atithi&theme=radical)
-
----
-
 ## 📫 Get in Touch
 
 - **LinkedIn:** [Atithi Singh](https://www.linkedin.com/in/codeati/)
